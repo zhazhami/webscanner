@@ -1,0 +1,9 @@
+{
+    "redis": {
+        "RDS_HOST": "111.229.211.71",
+        "RDS_PORT": "8765",
+        "RDS_OPTS": {
+            "auth_pass": "zzm199585"
+        }
+    }
+}
